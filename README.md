@@ -1,26 +1,21 @@
-# Initial page
+# Welcome!
 
-## Getting Super Powers
+## Welcome to MyAPI
 
-Becoming a super hero is a fairly straight forward process:
+Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
 
-```
-$ give me super-powers
-```
+## Want to jump right in?
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
 
-Once you're strong enough, save the world:
+{% content-ref url="quick-start.md" %}
+[quick-start.md](quick-start.md)
+{% endcontent-ref %}
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+## Want to deep dive?
 
-![](.gitbook/assets/gtscreenshot_20200127_112741.png)
-kkjkjkjkjkj
-ddd
+Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
+
+{% content-ref url="reference/api-reference/" %}
+[api-reference](reference/api-reference/)
+{% endcontent-ref %}
